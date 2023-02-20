@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://userModelling:userModelling@cluster0.vymvlyz.mongodb.net/?retryWrites=true&w=majority",
+    "jwtToken":"secretToken"
+}
